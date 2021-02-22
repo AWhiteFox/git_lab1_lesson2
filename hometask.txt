@@ -1,3 +1,16 @@
 Сравнение master и demo:
 - В ветке master в файле README добавлено упоминание ветки buttons
 - В ветке master в файле human.txt добавлены шляпа и ботинки
+
+Коммиты удаленной ветки master:
+Add hometask.txt
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'source/hat'
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
