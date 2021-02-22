@@ -1,0 +1,3 @@
+Сравнение master и demo:
+- В ветке master в файле README добавлено упоминание ветки buttons
+- В ветке master в файле human.txt добавлены шляпа и ботинки
